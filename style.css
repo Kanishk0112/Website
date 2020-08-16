@@ -1,0 +1,22 @@
+h1{
+    color:blue;
+    border:solid black;
+    border-width:2px;
+
+}
+
+.header{
+
+    backround-image:"download5.jpg";
+    background-color: rgb(9, 44, 90);
+}
+.menu{
+    background-color: burlywood ;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.footer{ 
+    display:flex;
+    justify-content:flex-end;
+}
